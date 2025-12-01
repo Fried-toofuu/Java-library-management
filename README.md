@@ -65,3 +65,6 @@ src/library/
 - **GUI**: Java Swing
 - **Lưu trữ**: File-based (có thể mở rộng sang database)
 - **Kiến trúc**: MVC Pattern
+## How to run:
+1.Clone project về máy
+2.Run file LoginFrame với username và password: admin
